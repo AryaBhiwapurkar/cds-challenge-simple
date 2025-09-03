@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CDS Challenge - Tasks App (Simple)
 
 This repository contains a simple MERN-style project (backend + frontend) demonstrating:
@@ -28,3 +29,6 @@ This repository contains a simple MERN-style project (backend + frontend) demons
 ## Notes
 - Use `node setRole.js <uid> admin` to set a user as admin (run from backend folder with service account available).
 - Do NOT commit your Firebase service account JSON or any private keys to GitHub.
+=======
+# cds-challenge-simple
+>>>>>>> af6c8c5e4606959a04ba9cb61b4540e5a1082e31
