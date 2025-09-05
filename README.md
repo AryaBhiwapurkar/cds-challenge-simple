@@ -1,4 +1,4 @@
-# CDS Challenge – Online Judge Platform
+# CDS Challenge – Task App
 
 🚀 Live Demo: [cds-challenge-simple-1.onrender.com](https://cds-challenge-simple-1.onrender.com/)
 
